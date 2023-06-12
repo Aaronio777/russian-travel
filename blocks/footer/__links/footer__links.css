@@ -1,7 +1,5 @@
 @media (max-width: 720px) {
   .footer__links {
     margin-bottom: 48px;
-    display: flex;
-    flex-direction: column;
   }
 }

@@ -6,6 +6,7 @@
   font-size: 12px;
   line-height: 20px;
   letter-spacing: 2px;
+  text-transform: capitalize;
   color: #aaaaaa;
 }
 
@@ -14,9 +15,3 @@
     line-height: 12px;
   }
 }
-
-@media (max-width: 320px) {
-    .place__url-heading {
-      line-height: 12px;
-    }
-  }

@@ -1,5 +1,5 @@
 .footer {
-  margin: 0 auto 0;
+  margin: 0 auto;
   padding: 92px 0 24px 0;
   display: flex;
   max-width: 1184px;
@@ -24,5 +24,7 @@
   .footer {
     padding-top: 64px;
     flex-direction: column;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
